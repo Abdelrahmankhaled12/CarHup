@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="200" src="./public/car-logo.svg">
+</p>
+
+
 # Car Hup App 
 
 This project is a web application that showcases various cars along with their details. When a user clicks on a car, they can view its specific details. It is built using Next.js and utilizes the Rapid Cars API for car data. Additionally, the Car Image API is used to display multiple images for each car.
@@ -33,6 +38,19 @@ npm run dev
 ```
 
 The application will be accessible at [http://localhost:3000](http://localhost:3000).
+
+
+
+## Demo
+
+You can find a live demo of the CarHup App [here](https://car-hup.netlify.app/).
+
+
+<p align="center">
+  <img  src="./public/carhup.png">
+</p>
+
+
 
 ## APIs Used
 
